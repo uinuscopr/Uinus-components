@@ -1,6 +1,6 @@
-# 유인어스 개발 컴포넌트 아카이빙
+# 유인어스 프론트엔드 컴포넌트 아카이브
 
-## Skills
+
 ### Language
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
