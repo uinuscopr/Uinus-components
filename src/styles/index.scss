@@ -1,0 +1,10 @@
+@import "./utils"; /* 변수파일 */
+
+.wrap-box {
+  width: 100%;
+  max-width: 48rem;
+  margin: 0 auto;
+  position: relative;
+  background-color: aqua;
+  height: 100%;
+}
