@@ -20,12 +20,6 @@ export default function SliderComp() {
         {/* 슬라이드 */}
         <Slider {...settings}>
           <div>
-            <h5>슬라이드1</h5>
-            <h5>슬라이드1</h5>
-            <h5>슬라이드1</h5>
-            <h5>슬라이드1</h5>
-          </div>
-          <div>
             <h5>슬라이드2</h5>
             <h5>슬라이드2</h5>
             <h5>슬라이드2</h5>

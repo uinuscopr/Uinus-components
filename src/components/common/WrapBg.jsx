@@ -1,4 +1,4 @@
-import "../styles/wrapBg.scss";
+import "../../styles/wrapBg.scss";
 
 export default function WrapBg() {
   return (

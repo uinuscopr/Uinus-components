@@ -3,8 +3,8 @@
 
 .wrap-contents {
   width: 100%;
-  max-width: 480px;
-  height: 100vh;
+  max-width: 48rem;
+  height: calc(100vh - 5.4rem);
   background-color: rgb(255, 255, 255);
   position: relative;
   z-index: 9;
